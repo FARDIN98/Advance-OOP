@@ -50,7 +50,6 @@ public class HelloController {
         window.show();
     }
 
-
     @FXML
     private Label showlabel;
 
